@@ -85,7 +85,7 @@ import {
             })}
           </div>
           <div className="footer-form flex flex-col  ">
-            <label className="text-lg font-semibold text-white">
+            <label className="text-lg font-semibold text-black">
               Stay up to date
             </label>
             <input

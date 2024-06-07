@@ -27,8 +27,8 @@ const Navbar = () => {
 
       {/* Desktop Navigation */}
       <ul className="hidden md:flex">
-        {navItems.map((item) => (
-          <NavLink to={item.link}>
+        {navItems.map((item,index) => (
+          <NavLink to={item.link} key={index}>
             <li
               key={item.id}
               className="p-4 hover:bg-[#00df9a] rounded-xl m-2 cursor-pointer duration-300 hover:text-black"

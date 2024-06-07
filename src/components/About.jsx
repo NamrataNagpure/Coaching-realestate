@@ -20,7 +20,7 @@ const About = () => {
               A home is a place to start your story.
               </div>
               <div className="text-xl font-semibold ">
-              Real estate is property consisting of land and the buildings on it, along with its natural resources such as growing crops (e.g. timber), minerals or water, and wild animals; immovable property of this nature; an interest vested in this (also) an item of real property, (more generally) buildings or housing in general.
+              The stars will never align, and the traffic lights of life will never all be green at the same time. The universe doesn’t conspire against you, but it doesn’t go out of its way to line up the pins either. Conditions are never perfect. ‘Someday’ is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it’s important to you and you want to do it ‘eventually,’ just do it and correct course along the way.
               </div>
               <div className="text-lg font-bold">120 PROJECT COMPLETE</div>
               <div>
